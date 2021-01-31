@@ -3,5 +3,6 @@
 
 How to execute:
 1. Open page with test
-2. Paste to console this script (main.js):
+2. Paste to console the script (main.js). It will automatically select the correct answer:
+3. Click submit and next question buttons
 ![1](https://github.com/granlovestea/ObrazovakaAnswers/blob/main/screenshot.png)
